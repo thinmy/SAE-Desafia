@@ -1,8 +1,8 @@
 # Candidato
 
-**Nome**: Ronaldo Matos Rodrigues
+**Nome**: Thinmy Patrick Alves
 
-**Email**: ronaldo.rodrigues@saedigital.com.br
+**Email**: thinmy.alves@saedigital.com.br
 
 # Instalação
 [...]
